@@ -1,0 +1,11 @@
+name: LingeringRemover
+version: 1
+main: com.example.lingeringremover.LingeringRemover
+api-version: '1.20'
+author: ponkstars
+description: Instantly deletes configured potions from player inventories with a GUI toggler.
+commands:
+  potionremove:
+    description: Opens the potion remover configuration GUI.
+    permission: lingeringremover.admin
+    usage: /potionremove gui

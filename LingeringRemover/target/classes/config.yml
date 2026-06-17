@@ -1,0 +1,3 @@
+allow-drinkable-potions: true
+allow-splash-potions: true
+allow-lingering-potions: false
